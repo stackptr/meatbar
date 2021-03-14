@@ -128,7 +128,7 @@
                         "Image": "299740371597.dkr.ecr.us-west-1.amazonaws.com/meatbar:latest",
                         "PortMappings": [
                             {
-                                "ContainerPort": 80,
+                                "ContainerPort": 8080,
                                 "HostPort": 80,
                                 "Protocol": "tcp"
                             }
