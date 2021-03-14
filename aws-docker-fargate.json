@@ -124,7 +124,7 @@
             "Properties": {
                 "ContainerDefinitions": [
                     {
-                        "Name": "dash-container",
+                        "Name": "meatbar-container",
                         "Image": "299740371597.dkr.ecr.us-west-1.amazonaws.com/meatbar:latest",
                         "PortMappings": [
                             {
