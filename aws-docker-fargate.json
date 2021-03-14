@@ -61,7 +61,7 @@
                 "VPCFARGATE"
             ],
             "Properties": {
-                "AvailabilityZone": "us-west-1",
+                "AvailabilityZone": "us-west-1a",
                 "CidrBlock": "10.0.0.0/24",
                 "MapPublicIpOnLaunch": "true",
                 "VpcId": {
