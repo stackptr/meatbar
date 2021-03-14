@@ -137,7 +137,7 @@
                             "LogDriver": "awslogs",
                             "Options": {
                                 "awslogs-group": "/ecs/task-medium",
-                                "awslogs-region": "eu-central-1",
+                                "awslogs-region": "us-west-1",
                                 "awslogs-stream-prefix": "ecs"
                             }
                         }
