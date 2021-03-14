@@ -125,7 +125,7 @@
                 "ContainerDefinitions": [
                     {
                         "Name": "dash-container",
-                        "Image": "account_id.dkr.ecr.eu-central-1.amazonaws.com/dash-app:1.0",
+                        "Image": "299740371597.dkr.ecr.us-west-1.amazonaws.com/meatbar:latest",
                         "PortMappings": [
                             {
                                 "ContainerPort": 80,
